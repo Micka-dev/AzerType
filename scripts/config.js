@@ -7,6 +7,7 @@ const listeMots = [
     "Juline",
     "Mickaël",
   ];
+  
 
 const listePhrases = [
   "Pas de panique !",
